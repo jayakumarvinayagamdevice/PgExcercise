@@ -1,0 +1,13 @@
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.json
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.dev.json
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\PersistenceModel.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\bin\Debug\netcoreapp3.0\PersistenceModel.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb

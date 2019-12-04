@@ -1,0 +1,16 @@
+D:\2019\October\Developing\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.deps.json
+D:\2019\October\Developing\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.dll
+D:\2019\October\Developing\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.pdb
+D:\2019\October\Developing\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.csprojAssemblyReference.cache
+D:\2019\October\Developing\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.AssemblyInfoInputs.cache
+D:\2019\October\Developing\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.AssemblyInfo.cs
+D:\2019\October\Developing\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.dll
+D:\2019\October\Developing\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.deps.json
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\bin\Debug\netstandard2.0\Persitance.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.csprojAssemblyReference.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.AssemblyInfoInputs.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.AssemblyInfo.cs
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Persitance\obj\Debug\netstandard2.0\Persitance.pdb

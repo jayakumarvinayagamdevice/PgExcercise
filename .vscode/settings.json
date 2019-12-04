@@ -1,0 +1,10 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\SqliteDb/EFCoreFitness.db",
+            "dialect": "SQLite",
+            "name": "EFCode"
+        }
+    ]
+}

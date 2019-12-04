@@ -1,0 +1,8 @@
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\obj\Debug\netcoreapp3.0\PersitanceModel.csprojAssemblyReference.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\obj\Debug\netcoreapp3.0\PersitanceModel.AssemblyInfoInputs.cache
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\obj\Debug\netcoreapp3.0\PersitanceModel.AssemblyInfo.cs
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\bin\Debug\netcoreapp3.0\PersitanceModel.deps.json
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\bin\Debug\netcoreapp3.0\PersitanceModel.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\bin\Debug\netcoreapp3.0\PersitanceModel.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\obj\Debug\netcoreapp3.0\PersitanceModel.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\PersitanceModel\obj\Debug\netcoreapp3.0\PersitanceModel.pdb
