@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using PersitanceModel;
+using PersistenceModel;
 
-namespace Persitance
+namespace Persistence
 {
     public class ApplicationDbContext:DbContext
     {

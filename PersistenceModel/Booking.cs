@@ -1,6 +1,6 @@
 using System;
 
-namespace PersitanceModel
+namespace PersistenceModel
 {
     public class Booking
     {

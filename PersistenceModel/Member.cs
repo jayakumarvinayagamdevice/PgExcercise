@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PersitanceModel
+namespace PersistenceModel
 {
     public class Member
     {

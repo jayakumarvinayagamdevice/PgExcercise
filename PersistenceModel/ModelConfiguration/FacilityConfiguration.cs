@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace PersitanceModel
+namespace PersistenceModel
 {
     public static class FacilityConfiguration
     {
