@@ -82,11 +82,11 @@ namespace Startup
                 //unitOfWork.Facilies.Insert(masterfacility);
                 //unitOfWork.Commit();
 
-                Console.WriteLine($"Facility Count: {unitOfWork.Facilies.Get().Count()}");                
+                Console.WriteLine($"Facility Count: {unitOfWork.Facilities.Get().Count()}");                
                 Console.WriteLine($"Members Count: {unitOfWork.Members.Get().Count()}");
                 Console.WriteLine($"Booking Count: {unitOfWork.Booking.Get().Count()}");
                 // Display Facility
-                Displayfacility(unitOfWork.Facilies.Get());
+                Displayfacility(unitOfWork.Facilities.Get());
             }
 
         }
