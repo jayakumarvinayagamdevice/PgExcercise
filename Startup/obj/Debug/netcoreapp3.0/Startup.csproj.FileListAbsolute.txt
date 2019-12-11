@@ -84,3 +84,8 @@ D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\Persi
 D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\PersistenceModel.dll
 D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\Persistence.pdb
 D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\PersistenceModel.pdb
+D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\PersistenceRepository.dll
+D:\2019\Dec\Development\CSharp\PgExcercise\Startup\bin\Debug\netcoreapp3.0\PersistenceRepository.pdb
